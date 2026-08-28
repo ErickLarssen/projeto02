@@ -103,4 +103,4 @@ Execute `node src/index.js` para ver os três pedidos montados no console.
 
 ## Autor
 
-[Seu nome aqui]
+[Érick Silva]
