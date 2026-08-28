@@ -1,0 +1,11 @@
+{
+  "name": "sistema-pedidos-subway",
+  "version": "1.0.0",
+  "description": "Sistema de montagem de lanches personalizados usando o padrão de projeto Builder (GoF)",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
